@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "指针传递结构", "指针传递结构\指针传递结构.vcxproj", "{AFA2A376-5D8D-4194-9E90-D66AEA4E68DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA2A376-5D8D-4194-9E90-D66AEA4E68DB}.Debug|x64.ActiveCfg = Debug|x64
+		{AFA2A376-5D8D-4194-9E90-D66AEA4E68DB}.Debug|x64.Build.0 = Debug|x64
+		{AFA2A376-5D8D-4194-9E90-D66AEA4E68DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{AFA2A376-5D8D-4194-9E90-D66AEA4E68DB}.Debug|x86.Build.0 = Debug|Win32
+		{AFA2A376-5D8D-4194-9E90-D66AEA4E68DB}.Release|x64.ActiveCfg = Release|x64
+		{AFA2A376-5D8D-4194-9E90-D66AEA4E68DB}.Release|x64.Build.0 = Release|x64
+		{AFA2A376-5D8D-4194-9E90-D66AEA4E68DB}.Release|x86.ActiveCfg = Release|Win32
+		{AFA2A376-5D8D-4194-9E90-D66AEA4E68DB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59C60FAC-E4BD-48EA-956A-115248171D73}
+	EndGlobalSection
+EndGlobal
